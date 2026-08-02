@@ -124,11 +124,11 @@ js/app.js
 
 ### Inicio de Sesión
 
-![alt text](screenshots\InicioSesion.png)
+![alt text](screenshots/InicioSesion.png)
 
 ### Dashboard
 
-![alt text](screenshots\dashboard.png)
+![alt text](screenshots/dashboard.png)
 
 ---
 
