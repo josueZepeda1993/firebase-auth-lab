@@ -78,11 +78,11 @@ firebase-auth-lab/
 
 ## 🚀 Funcionalidades Implementadas
 
-* [ ] Registro de usuarios
-* [ ] Inicio de sesión
-* [ ] Gestión de sesión
-* [ ] Protección de páginas privadas
-* [ ] Cierre de sesión
+[ * ] Registro de usuarios
+[ * ] Inicio de sesión
+[ * ] Gestión de sesión
+[ * ] Protección de páginas privadas
+[ * ] Cierre de sesión
 
 ---
 
@@ -124,7 +124,7 @@ js/app.js
 
 ### Inicio de Sesión
 
-[alt text](screenshots\InicioSesion.png)
+![alt text](screenshots\InicioSesion.png)
 
 ### Dashboard
 
